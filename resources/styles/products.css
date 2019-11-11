@@ -1,0 +1,53 @@
+    h1 {
+        color: #24395c;
+        margin-top: 10%;
+        width: 80%;
+        text-align: center;
+        font-size: 5vw;
+        position: absolute;
+        overflow: hidden;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+    
+    .nav-link {
+        color: #212529;
+    }
+    
+    .card-img-overlay {
+        max-height: 15vh;
+    }
+    
+    ul {
+        list-style-position: inside;
+        list-style-type: none;
+    }
+    
+    ul>li>a {
+        text-decoration: none;
+        color: #212529;
+    }
+    
+    ul>li>a:hover {
+        color: #212529;
+    }
+    
+     ::-webkit-input-placeholder {
+        text-align: center;
+    }
+    
+     :-moz-placeholder {
+        /* Firefox 18- */
+        text-align: center;
+    }
+    
+     ::-moz-placeholder {
+        /* Firefox 19+ */
+        text-align: center;
+    }
+    
+     :-ms-input-placeholder {
+        text-align: center;
+    }
